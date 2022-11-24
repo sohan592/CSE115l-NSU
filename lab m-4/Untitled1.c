@@ -3,7 +3,7 @@
 int main (){
 
  {
-     printf("Menu\n---------\n");
+     printf("Menu\n-----uugyugyt tdtftf ftyfytf----\n");
      printf("M for Mango\nA for Apple\nB for banana\nC for Cherry");
  }
  char key;
