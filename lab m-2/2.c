@@ -4,7 +4,7 @@ int main ()
 {
 
     int m,n;
-    printf("Enter two integer numbers:\n");
+    printf("Enter two integer number:\n");
     scanf("%d%d",&m,&n);
 
     printf("%d\n",m*pow(2,n));
